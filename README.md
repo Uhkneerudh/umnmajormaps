@@ -9,6 +9,7 @@ Multiple Arrows of the same color that lead to a class indicate substitutable pr
 
 To create a major map using the files, use parse.py to get all course information for a major, copy it into sketch.js and save it as a variable (i.e csciPrereqs = ), change the dept variable to the department code and pass the prereq array into "parseFromArray". Then run index.html to display the map. (NOTE: Arrow colors are randomized so you can reset to get a series of colors with good contrast.)
 
+
 File Breakdown:
 
 parse.py: Uses python and BeautifulSoup to parse course information from the UMN course catalog website, printing it to the terminal in a form that can be copied into the map creator javascript file
