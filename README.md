@@ -1,8 +1,10 @@
 # umnmajormaps
 Automatically parses UMN Class Data and creates major maps that show classes and prerequisites.
 
-HOW TO USE:\n
+HOW TO USE:
+
 Demo File: https://imgur.com/gallery/gfV4dzL
+
 Multiple Arrows of the same color that lead to a class indicate substitutable prerequisites (i.e 1103 or 1113 for CSCI 1913)
 
 To create a major map using the files, use parse.py to get all course information for a major, copy it into sketch.js and save it as a variable (i.e csciPrereqs = ), change the dept variable to the department code and pass the prereq array into "parseFromArray". Then run index.html to display the map. (NOTE: Arrow colors are randomized so you can reset to get a series of colors with good contrast.)
