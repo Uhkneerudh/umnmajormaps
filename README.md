@@ -1,7 +1,7 @@
 # umnmajormaps
 Automatically parses UMN Class Data and creates major maps that show classes and prerequisites.
 
-HOW TO USE:
+HOW TO USE:\n
 Demo File: https://imgur.com/gallery/gfV4dzL
 Multiple Arrows of the same color that lead to a class indicate substitutable prerequisites (i.e 1103 or 1113 for CSCI 1913)
 
