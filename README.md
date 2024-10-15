@@ -1,5 +1,9 @@
-# umnmajormaps
+# UMN Major Maps
 Automatically parses UMN Class Data and creates major maps that show classes and prerequisites.
+
+![BVKOyM5](https://github.com/user-attachments/assets/64442c81-4490-4ead-8fdb-c57ca86df0bc)
+
+---
 
 HOW TO USE:
 
